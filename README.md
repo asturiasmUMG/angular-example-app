@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Angular Example App v1.5</h3>
+  <h3 align="center">Angular Example App v2026.1</h3>
 
   <p align="center">
     Example app with Angular 13 + Angular CLI + i18n + Graphql
