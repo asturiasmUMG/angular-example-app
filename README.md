@@ -2,7 +2,7 @@
   <h3 align="center">Angular Example App v2026.1</h3>
 
   <p align="center">
-    Example app with Angular 13 + Angular CLI + i18n + Graphql
+    Esta es una verión solo para la clase de 11am 2026 de Ingeniería de Software
     <br>
     <br>
     :clap::clap::tada::tada::tada::tada::clap::clap:
