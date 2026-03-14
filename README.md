@@ -9,6 +9,7 @@
     <br>
     <br>
     Base project made with much :heart:. Contains CRUD, advanced patterns, generated library, and much more!
+    Este es un ejemplo de control de versiones utilizando GIT
     <br>
     <br>
     <img src="https://media.giphy.com/media/BIql9p3KQWYdjq4Sxe/giphy.gif" alt="Demo example"/>
